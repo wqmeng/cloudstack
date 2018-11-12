@@ -1,3 +1,9 @@
+cloudstack (4.11.2.0) unstable; urgency=low
+
+  * Update the version to 4.11.2.0
+
+ -- the Apache CloudStack project <dev@cloudstack.apache.org>  Mon, 12 Nov 2018 13:40:13 +0000
+
 cloudstack (4.11.2.0-SNAPSHOT) unstable; urgency=low
 
   * Update the version to 4.11.2.0-SNAPSHOT
